@@ -38,7 +38,7 @@
             border: 1px solid #ccc;
             border-radius: 5px;
         }
-        button {
+        a {
             padding: 10px 15px;
             font-size: 16px;
             background-color: #28a745;
@@ -59,8 +59,10 @@
     <div class="message">
         Updates this message: <span id="displayMessage"></span>
     </div>
-    <input type="text" placeholder="Message">
-    <button onclick="updateMessage()" id="changer">Update Message</button>
+    <input type="text" placeholder="Enter some text">
+    <span>
+        <a onclick="updateMessage()" id="changer">Update Message</a>
+    </span>
 </div>
 
 <script>
