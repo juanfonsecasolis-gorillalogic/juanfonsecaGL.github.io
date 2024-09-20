@@ -1,3 +1,3 @@
 # Juan Fonseca Solis @ Gorilla Logic
 
-* [Self healing tests](selfHealingTests/testRigor.html)
+* [Self healing tests](selfHealingTests/form-button-label.html)
