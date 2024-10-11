@@ -1,8 +1,9 @@
 # Automation tech stack [review paper]
 
-Juan M. Fonseca Solís @ Labs (Sept-Oct 2024)
+Juan M. Fonseca-Solís 
 
-Gorilla Logic, Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
+Gorilla Logic Labs (Sept-Oct 2024).
+Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
 
 <img width="250" height="100" src='../img/GL_Logo_Primary_Blk.png'/>
 
@@ -20,7 +21,7 @@ Gorilla Logic, Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San Jos
 ## 1. Introduction
 Working in test automation is a joy for many test members. Besides allowing them to apply their knowledge in computer programing, it facilitates the release of code to production in a daily basis and aliviates the burden of manual testers. On Agile methodologies, test cases get cumulative over time, and without automation the development teams won't be able to implement practices like Continuous Integration (CI), Continous Delivery (CD), and DevOps.
 
-So far, the technology stack used by the team to perform automation has been C#, Selenium WebDriver, nUnit, and Behavioral Driven Development (BDD) with Specflow. With this stack we have noticed some issues, such as long execution times for daily automated regressions, high costs on automation maintenance, and difficulty interacting with ReactJS pages. The purpose of this paper is perform a literature review to understand the causes of the mentioned problems and find possible solutions.
+So far, the technology stack used by the team to perform automation has been C#, Selenium WebDriver, nUnit, and Specflow/LivingDoc for Behavioral Driven Development (BDD). Although this stack has let us offer solutions we have also noticed some repetitive issues, such as long execution times for daily automated regressions, high costs on automation maintenance, and difficulty interacting with ReactJS pages. The purpose of this paper is perform a literature review to understand the causes of the mentioned problems and find possible solutions.
 
 In section 2 we perform a literature review, providing also some insights about Artificial Intelligence (AI), in section 3 we contrast the solutions found with our current technology stack, and in section 4 we present our conclusions and recommnedations.
 
