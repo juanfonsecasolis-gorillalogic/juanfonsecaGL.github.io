@@ -10,7 +10,7 @@ Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
 ## Abstract
 **Problem.** Per our previous experience in automation, we have noticed some areas of improvement, in particular, regarding the daily regression execution time, the maintenance costs, the interaction with event-based pages (ReactJS), and the adaptation of Artificial Intelligence tools.
 
-**Motivation.** These areas of improvement are common, but not ubiquitous to all teams and technology stacks, so we wanted to investigate what other are doing to mitigate them.
+**Motivation.** We have observed that these areas of improvement are ubiquitous across teams and could be of interest for others too. 
 
 **Objectives.** This review paper aims to understand the cause of the problems described and find better test and development practices. 
 
