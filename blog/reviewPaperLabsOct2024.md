@@ -8,7 +8,7 @@ Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
 <img width="250" height="100" src='../img/GL_Logo_Primary_Blk.png'/>
 
 ## Abstract
-**Problem.** Per our previous experience in automation, we have noticed some areas of improvement,  particularly, regarding the daily regression execution time, the maintenance costs, the interaction with event-based pages (ReactJS), and the adaptation of Artificial Intelligence tools.
+**Problem.** Per our previous experience in automation, we have noticed some areas of improvement,  particularly, regarding the execution time of the daily regressions, the maintenance costs, the interaction with event-based pages (ReactJS), and the adaptation of Artificial Intelligence tools.
 
 **Motivation.** We have observed that these areas of improvement are ubiquitous across teams and could be of interest to others too. 
 
