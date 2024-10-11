@@ -23,7 +23,7 @@ Working in test automation is a joy for many test members. Besides allowing them
 
 So far, the technology stack used by the team to perform automation has been C#, Selenium WebDriver, nUnit, and Specflow/LivingDoc for Behavioral Driven Development (BDD). Although this stack has let us offer solutions, we have noticed some improvement areas, such as shortening the execution times of daily automated regressions, decreasing maintenance costs, and interacting more easily with ReactJS pages. The purpose of this paper is to review the literature to find solutions to the mentioned areas.
 
-In section 2 we perform a literature review, providing also some insights about Artificial Intelligence (AI), in section 3 we contrast the solutions found with our current technology stack, and in section 4 we present our conclusions and recommendations.
+In section 2 we perform a literature review and provide some insights about Artificial Intelligence (AI) applied to automation, in section 3 we contrast the solutions found with our current technology stack, and in section 4 we present our conclusions and recommendations.
 
 ## 2. Literature review
 
@@ -42,7 +42,7 @@ To be defined...
 ## 3. Discussion
 To be defined...
 
-## 4. Conclusions and recommnedations
+## 4. Conclusions and recommendations
 To be defined...
 
 ## 5. References
