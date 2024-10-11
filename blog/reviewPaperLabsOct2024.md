@@ -4,7 +4,7 @@ Juan M. Fonseca Solís @ Labs (Sept-Oct 2024)
 
 Gorilla Logic, Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
 
-<img width="250" height="100" src='img/GL_Logo_Primary_Blk.png'/>
+<img width="250" height="100" src='../img/GL_Logo_Primary_Blk.png'/>
 
 ## Abstract
 **Problem.** the team faced challenges in the previous automation projects, in particular, long execution times for daily automated regressions (almost 3h), high costs on automation maintenance, difficulty interacting with ReactJS pages, and the lack of knowlege in Artificial Intelligence tools to speed up the manual testing process (automation engineer also perform ocassional manual testing too).
