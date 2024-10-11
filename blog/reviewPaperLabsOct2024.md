@@ -9,7 +9,7 @@ Gorilla Logic, Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San Jos
 ## Abstract
 **Problem.** the team faced challenges in the previous automation projects, in particular, long execution times for daily automated regressions (almost 3h), high costs on automation maintenance, difficulty interacting with ReactJS pages, and the lack of knowlege in Artificial Intelligence tools to speed up the manual testing process (automation engineer also perform ocassional manual testing too).
 
-**Motivation.** These problems are common in automation projects and solutions found could potentially impact positively future projects.
+**Motivation.** These problems are common in automation projects and we wanted to determine if there were existent solutions that could impact positively future projects.
 
 **Objectives.** This review paper aims to understand the cause of the problems described and find better practices. 
 
