@@ -8,9 +8,9 @@ Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
 <img width="250" height="100" src='../img/GL_Logo_Primary_Blk.png'/>
 
 ## Abstract
-**Problem.** Per our previous experience, we have noticed that working in test automation brings some challenges, like long execution times for daily automated regressions, high costs on automation maintenance, difficulty interacting with ReactJS pages, and adaptation of Artificial Intelligence tools.
+**Problem.** Per our previous experience in automation, we have noticed some areas of improvement, in particular, regarding the daily regression execution time, the maintenance costs, the interaction with event-based pages (ReactJS), and the adaptation of Artificial Intelligence tools.
 
-**Motivation.** These problems are common, but not ubiquitous to all teams and technology stacks, so we wanted to investigate what other are doing to mitigate them.
+**Motivation.** These areas of improvement are common, but not ubiquitous to all teams and technology stacks, so we wanted to investigate what other are doing to mitigate them.
 
 **Objectives.** This review paper aims to understand the cause of the problems described and find better test and development practices. 
 
@@ -27,7 +27,7 @@ In section 2 we perform a literature review, providing also some insights about 
 
 ## 2. Literature review
 
-### 2.1 Daily automated regressions execution time
+### 2.1 Daily regressions execution time
 To be defined...
 
 ### 2.2 Automation maintenance cost
