@@ -8,7 +8,9 @@ Sabana Business Center 10th Floor, Bv. Ernesto Rohrmoser, San José.
 <img width="250" height="100" src='../img/GL_Logo_Primary_Blk.png'/>
 
 ## Abstract
-**Problem.** Our previous experience in software development has led us to find better ways to write automation, particularly, we want to know if we can improve the execution time of the daily regressions, decrease the maintenance costs of automation, facilitate the interaction with ReactJS pages, make easier for manual testers write automation too, and incorporate Artificial Intelligence tools.
+**Problem.** 
+
+Our previous experience in software development has led us to find better ways to write automation, particularly, we want to know if we can improve the execution time of the daily regressions, decrease the maintenance costs of automation, facilitate the interaction with ReactJS pages, make easier for manual testers write automation too, and incorporate Artificial Intelligence tools.
 
 **Motivation.** We have observed that these areas of improvement are ubiquitous across teams and could be of interest to the community. 
 
